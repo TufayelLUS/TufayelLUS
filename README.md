@@ -9,7 +9,7 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 * JavaScript (<i>Experience: 1 year</i>)
 * C# (<i>Experience: 1 month</i>)
 
-# Operating System Experience
+### Operating System Experience
 * Windows
 * Linux
 * Mac OS
