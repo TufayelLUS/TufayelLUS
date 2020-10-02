@@ -10,8 +10,8 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 * C# (<i>Experience: 1 month</i>)
 
 ### Area of Interest
-* Web Scraping
-* Data Parsing
+* Web Scraping Automation
+* Data Parsing Automation
 * Data Manipulation
 * Web Automation
 * Agile Development
