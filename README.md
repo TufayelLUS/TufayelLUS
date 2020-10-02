@@ -9,6 +9,14 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 * JavaScript (<i>Experience: 1 year</i>)
 * C# (<i>Experience: 1 month</i>)
 
+### Specialization
+* <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YA2NB2YKZJHF">Google IT Automation with Python</a>
+
+### Certification
+* <a href="https://courses.edx.org/certificates/9109dada5de64187a4f72097dee83ac0">Python Basics for Data Science</a>
+* <a href="https://www.coursera.org/account/accomplishments/certificate/2NT7U479VXK2">Python Data Structures</a>
+* <a href="https://www.coursera.org/account/accomplishments/certificate/P6UCBFCJKN3Y">Crash Course on Python</a>
+
 ### Operating System Experience
 * Windows
 * Linux
