@@ -9,6 +9,11 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 * JavaScript (<i>Experience: 1 year</i>)
 * C# (<i>Experience: 1 month</i>)
 
+# Operating System Experience
+* Windows
+* Linux
+* Mac OS
+
 ### Reach Out to Me:
 * <a href="https://www.linkedin.com/in/tufayel-ahmed-cse">LinkedIn</a>
 * <a href="https://www.twitter.com/cse_tufayel">Twitter</a>
