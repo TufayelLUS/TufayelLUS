@@ -29,6 +29,6 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 * Linux
 * Mac OS
 
-### Reach Out to Me:
+### Reach Out to Me
 * <a href="https://www.linkedin.com/in/tufayel-ahmed-cse" target="_blank">LinkedIn</a>
 * <a href="https://www.twitter.com/cse_tufayel" target="_blank">Twitter</a>
