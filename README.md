@@ -9,6 +9,13 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 * JavaScript (<i>Experience: 1 year</i>)
 * C# (<i>Experience: 1 month</i>)
 
+### Area of Interest
+* Web Scraping
+* Data Parsing
+* Data Manipulation
+* Web Automation
+* Agile Development
+
 ### Specialization
 * <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YA2NB2YKZJHF" target="_blank">Google IT Automation with Python</a>
 
