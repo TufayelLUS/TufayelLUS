@@ -10,12 +10,12 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 * C# (<i>Experience: 1 month</i>)
 
 ### Specialization
-* <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YA2NB2YKZJHF">Google IT Automation with Python</a>
+* <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YA2NB2YKZJHF" target="_blank">Google IT Automation with Python</a>
 
 ### Certification
-* <a href="https://courses.edx.org/certificates/9109dada5de64187a4f72097dee83ac0">Python Basics for Data Science</a>
-* <a href="https://www.coursera.org/account/accomplishments/certificate/2NT7U479VXK2">Python Data Structures</a>
-* <a href="https://www.coursera.org/account/accomplishments/certificate/P6UCBFCJKN3Y">Crash Course on Python</a>
+* <a href="https://courses.edx.org/certificates/9109dada5de64187a4f72097dee83ac0" target="_blank">Python Basics for Data Science</a>
+* <a href="https://www.coursera.org/account/accomplishments/certificate/2NT7U479VXK2" target="_blank">Python Data Structures</a>
+* <a href="https://www.coursera.org/account/accomplishments/certificate/P6UCBFCJKN3Y" target="_blank">Crash Course on Python</a>
 
 ### Operating System Experience
 * Windows
@@ -23,5 +23,5 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 * Mac OS
 
 ### Reach Out to Me:
-* <a href="https://www.linkedin.com/in/tufayel-ahmed-cse">LinkedIn</a>
-* <a href="https://www.twitter.com/cse_tufayel">Twitter</a>
+* <a href="https://www.linkedin.com/in/tufayel-ahmed-cse" target="_blank">LinkedIn</a>
+* <a href="https://www.twitter.com/cse_tufayel" target="_blank">Twitter</a>
