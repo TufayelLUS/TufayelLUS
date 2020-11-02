@@ -2,38 +2,44 @@
 I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & Engineer from Leading University, Sylhet, Bangladesh. Currently I am serving customers with my software engineering skills as a freelancer in Fiverr and other marketplaces. I am open to job offers if the salary offered is decent enough. Currently accepting remote positions. If you are a company owner and looking for developers, feel free to contact me in LinkedIn.
 
 ### 💪 Skills
-* Python (<i>Experience: 3.5 years</i>)
-* PHP (<i>Experience: 3 years</i>)
-* Laravel Web Application Framework (<i>Experience: 6 months</i>)
-* jQuery (<i>Experience: 1 year</i>)
-* JavaScript (<i>Experience: 1 year</i>)
-* C# (<i>Experience: 1 month</i>)
+↪️ Python (<i>Experience: 3.5 years</i>)<br>
+↪️ PHP (<i>Experience: 3 years</i>)<br>
+↪️ Laravel Web Application Framework (<i>Experience: 6 months</i>)<br>
+↪️ jQuery (<i>Experience: 1 year</i>)<br>
+↪️ JavaScript (<i>Experience: 1 year</i>)<br>
+↪️ C# (<i>Experience: 1 month</i>)<br>
 
 ### 🌷 Area of Interest
-* Web Scraping Automation
-* Data Parsing Automation
-* Data Manipulation
-* Web Automation
-* Agile Development
+↪️ Web Scraping Automation<br>
+↪️ Data Parsing Automation<br>
+↪️ Data Manipulation<br>
+↪️ Web Automation<br>
+↪️ Agile Development<br>
 
 ### 🔧 Specialization
-* <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YA2NB2YKZJHF" target="_blank">Google IT Automation with Python</a>
+↪️ <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YA2NB2YKZJHF" target="_blank">Google IT Automation with Python</a><br>
 
 ### 📘 Certification
-* <a href="https://courses.edx.org/certificates/9109dada5de64187a4f72097dee83ac0" target="_blank">Python Basics for Data Science</a>
-* <a href="https://www.coursera.org/account/accomplishments/certificate/2NT7U479VXK2" target="_blank">Python Data Structures</a>
-* <a href="https://www.coursera.org/account/accomplishments/certificate/P6UCBFCJKN3Y" target="_blank">Crash Course on Python</a>
+↪️ <a href="https://courses.edx.org/certificates/9109dada5de64187a4f72097dee83ac0" target="_blank">Python Basics for Data Science</a><br>
+↪️ <a href="https://www.coursera.org/account/accomplishments/certificate/2NT7U479VXK2" target="_blank">Python Data Structures</a><br>
+↪️ <a href="https://www.coursera.org/account/accomplishments/certificate/P6UCBFCJKN3Y" target="_blank">Crash Course on Python</a><br>
 
 ### 💻 Operating System Experience
-* Windows
-* Linux
-* Mac OS
+↪️ Windows<br>
+↪️ Linux<br>
+↪️ Mac OS<br>
+
+### 🎌 Freelancing Profile
+↪️ <a href="https://www.fiverr.com/thechoyon" target="_blank">Fiverr</a> 🔥 Level 2 Seller 🔥<br>
+↪️ <a href="https://www.upwork.com/freelancers/~01ba51f81fe1a76fc2" target="_blank">Upwork</a><br>
+↪️ <a href="https://www.guru.com/freelancers/choyon-ahmed" target="_blank">Guru.com</a><br>
+↪️ <a href="https://www.seoclerk.com/user/TheChoyon" target="_blank">SeoClerk</a><br>
 
 ### 📨 Reach Out to Me
-* <a href="https://www.linkedin.com/in/tufayel-ahmed-cse" target="_blank">LinkedIn</a>
-* <a href="https://www.twitter.com/cse_tufayel" target="_blank">Twitter</a>
-* <a href="mailto:dev@novice-geek.com" target="_blank">Email Me: dev@novice-geek.com</a>
+↪️ <a href="https://www.linkedin.com/in/tufayel-ahmed-cse" target="_blank">LinkedIn</a><br>
+↪️ <a href="https://www.twitter.com/cse_tufayel" target="_blank">Twitter</a><br>
+↪️ <a href="mailto:dev@novice-geek.com" target="_blank">Email Me: dev@novice-geek.com</a><br>
 
 ### 🌐 My Website
-* <a href="https://www.novice-geek.com" target="_blank">novice-geek.com</a>
-* <a href="https://www.we-can-solve.com" target="_blank">we-can-solve.com</a>
+↪️ <a href="https://www.novice-geek.com" target="_blank">novice-geek.com</a><br>
+↪️ <a href="https://www.we-can-solve.com" target="_blank">we-can-solve.com</a><br>
