@@ -3,6 +3,7 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 
 ### 💪 Skills
 ↪️ Python (<i>Experience: 4 years</i>)<br>
+↪️ Flask Web Application Framework (<i>Experience: Learning</i>)<br>
 ↪️ PHP (<i>Experience: 3 years</i>)<br>
 ↪️ Laravel Web Application Framework (<i>Experience: 6 months</i>)<br>
 ↪️ jQuery (<i>Experience: 1 year</i>)<br>
