@@ -9,6 +9,8 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 ↪️ jQuery (<i>Experience: 1 year</i>)<br>
 ↪️ JavaScript (<i>Experience: 1 year</i>)<br>
 ↪️ C# (<i>Experience: 1 month</i>)<br>
+↪️ MySQL (<i>Experience: Enough to use on projects as required</i>)<br>
+↪️ SQLite3 (<i>Experience: Enough to use on projects as required</i>)<br>
 
 ### 🌷 Area of Interest
 ↪️ Web Scraping Automation<br>
