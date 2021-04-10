@@ -45,4 +45,4 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 
 ### 🌐 My Website
 ↪️ <a href="https://www.novice-geek.com" target="_blank">novice-geek.com</a><br>
-↪️ <a href="https://www.we-can-solve.com" target="_blank">we-can-solve.com</a><br>
+↪️ <a href="https://www.developerhired.com" target="_blank">developerhired.com</a><br>
