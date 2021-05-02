@@ -34,7 +34,7 @@ I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & E
 
 ### 🎌 Freelancing Profile
 ↪️ <a href="https://www.fiverr.com/thechoyon" target="_blank">Fiverr</a> 🔥 <b>Level 2</b> Seller 🔥<br>
-↪️ <a href="https://www.upwork.com/freelancers/~01ba51f81fe1a76fc2" target="_blank">Upwork</a><br>
+↪️ <a href="https://www.upwork.com/freelancers/~01ba51f81fe1a76fc2" target="_blank">Upwork</a> 🔥 <b>Top Rated</b> Freelancer 🔥<br>
 ↪️ <a href="https://www.guru.com/freelancers/choyon-ahmed" target="_blank">Guru.com</a><br>
 ↪️ <a href="https://www.seoclerk.com/user/TheChoyon" target="_blank">SeoClerk</a><br>
 
