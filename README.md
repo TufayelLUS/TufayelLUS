@@ -1,5 +1,5 @@
 ### About Me ❔
-I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & Engineering from Leading University, Sylhet, Bangladesh. Currently I am serving customers with my software engineering skills as a freelancer in Fiverr and other marketplaces. I am open to job offers if the salary offered is decent enough. Currently accepting remote positions. If you are a company owner and looking for developers, feel free to contact me in LinkedIn.
+I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & Engineering from Leading University, Sylhet, Bangladesh. Currently I am serving customers with my software engineering skills as a freelancer in Fiverr and other marketplaces. I am open to job offers if the salary offered is decent enough. Currently accepting remote positions. I am currently working as a Software Engineer With <b>Chase Reiner SEO</b>.
 
 ### 💪 Skills
 ↪️ Python (<i>Experience: 4 years</i>)<br>
