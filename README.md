@@ -1,6 +1,16 @@
 ### About Me ❔
 I am Tufayel Ahmed. I have finished my graduation degree in Computer Science & Engineering from Leading University, Sylhet, Bangladesh. Currently I am serving customers with my software engineering skills as a freelancer in Fiverr and other marketplaces. I am open to job offers if the salary offered is decent enough. Currently accepting remote positions.
 
+### 👨‍💻 Competitive/Sports Programming/Problem Solving Achievements
+↪️ Ranked 96th/150th in ACM ICPC Dhaka Regional 2017 Programming Contest (Team Contest) [<a href="https://algo.codemarshal.org/contests/icpc-dhaka-17/standings">View RankList</a>]
+
+### 👨‍💻 Competitive/Sports Programming/Problem Solving Profiles
+↪️ <a href="https://www.stopstalk.com/user/profile/tufayel_lus">Stopstock Profile</a><br>
+↪️ <a href="https://codeforces.com/profile/tufayel_lus">CodeForces Profile</a><br>
+↪️ <a href="https://www.codechef.com/users/tufayel_lus">CodeChef Profile</a><br>
+↪️ <a href="https://www.hackerrank.com/tufayel_lus">HackerRank Profile</a><br>
+↪️ <a href="https://uhunt.onlinejudge.org/id/866523">UVa Profile</a><br>
+
 ### 💪 Skills
 ↪️ Python (<i>Experience: 4+ years</i>)<br>
 ↪️ Django Web Application Framework (<i>Experience: Learning</i>)<br>
