@@ -5,7 +5,7 @@ I am Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 ↪️ Ranked 96th/150th in <a href="https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest" title="click to learn more">ACM ICPC</a> <a href="https://en.wikipedia.org/wiki/ACM_ICPC_Dhaka_Site" title="click to learn more">Dhaka Regional</a> 2017 Programming Contest (Team Contest) [<a href="https://algo.codemarshal.org/contests/icpc-dhaka-17/standings">View RankList</a>]
 
 ### 👨‍💻 Competitive/Sports Programming/Problem Solving Profiles
-↪️ <a href="https://www.stopstalk.com/user/profile/tufayel_lus">Stopstock Profile</a><br>
+↪️ <a href="https://www.stopstalk.com/user/profile/tufayel_lus">Stopstalk Profile</a><br>
 ↪️ <a href="https://codeforces.com/profile/tufayel_lus">CodeForces Profile</a><br>
 ↪️ <a href="https://www.codechef.com/users/tufayel_lus">CodeChef Profile</a><br>
 ↪️ <a href="https://www.hackerrank.com/tufayel_lus">HackerRank Profile</a><br>
