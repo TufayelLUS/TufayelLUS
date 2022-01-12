@@ -14,7 +14,7 @@ I am Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 ### 💪 Skills
 ↪️ Python (<i>Experience: 4+ years</i>)<br>
 ↪️ Django Web Application Framework (<i>Experience: Learning</i>)<br>
-↪️ Flask Web Application Framework (<i>Experience: Learning</i>)<br>
+↪️ Flask Web Application Framework (<i>Experience: Just enough to handle projects</i>)<br>
 ↪️ PHP (<i>Experience: 3+ years</i>)<br>
 ↪️ Laravel Web Application Framework (<i>Experience: 6 months</i>)<br>
 ↪️ jQuery (<i>Experience: 1+ year</i>)<br>
