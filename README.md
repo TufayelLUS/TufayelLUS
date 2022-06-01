@@ -52,9 +52,3 @@ I am Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 ### 📨 Reach Out to Me
 ↪️ <a href="https://www.linkedin.com/in/tufayel-ahmed-cse" target="_blank">LinkedIn</a><br>
 ↪️ <a href="https://www.twitter.com/cse_tufayel" target="_blank">Twitter</a><br>
-↪️ <a href="mailto:dev@novice-geek.com" target="_blank">Email Me: dev@novice-geek.com</a><br>
-
-### 🌐 My Website
-↪️ <a href="https://www.novice-geek.com" target="_blank">novice-geek.com</a><br>
-↪️ <a href="https://www.developerhired.com" target="_blank">developerhired.com</a><br>
-↪️ <a href="https://www.devwithpython.com" target="_blank">devwithpython.com</a><br>
