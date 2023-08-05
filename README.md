@@ -12,7 +12,7 @@ I am Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 ↪️ <a href="https://uhunt.onlinejudge.org/id/866523">UVa Profile</a><br>
 
 ### 💪 Skills
-↪️ Python (<i>Experience: 4+ years</i>)<br>
+↪️ Python (<i>Experience: 6+ years</i>)<br>
 ↪️ Django Web Application Framework (<i>Experience: Learning</i>)<br>
 ↪️ Flask Web Application Framework (<i>Experience: Just enough to handle projects</i>)<br>
 ↪️ PHP (<i>Experience: 3+ years</i>)<br>
@@ -44,8 +44,8 @@ I am Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 ↪️ Mac OS<br>
 
 ### 🎌 Freelancing Profile
-↪️ <a href="https://www.fiverr.com/thechoyon" target="_blank">Fiverr</a> 🔥 <b>Top Rated Seller</b> 🔥<br>
-↪️ <a href="https://www.upwork.com/freelancers/~01ba51f81fe1a76fc2" target="_blank">Upwork</a> 🔥 <b>Top Rated</b> Freelancer 🔥<br>
+↪️ <a href="https://www.fiverr.com/thechoyon" target="_blank">Fiverr</a> 🔥 <b>Top Rated Seller</b> 🔥 Since <b>July 2021</b><br>
+↪️ <a href="https://www.upwork.com/freelancers/~01ba51f81fe1a76fc2" target="_blank">Upwork</a> 🔥 Ex <b>Top Rated</b> Freelancer 🔥<br>
 ↪️ <a href="https://www.guru.com/freelancers/choyon-ahmed" target="_blank">Guru.com</a><br>
 ↪️ <a href="https://www.seoclerk.com/user/TheChoyon" target="_blank">SeoClerk</a><br>
 
