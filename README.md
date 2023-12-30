@@ -51,5 +51,5 @@ It's Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 
 ### 📨 Where to Reach Out
 ↪️ <a href="https://www.linkedin.com/in/tufayel-ahmed-cse" target="_blank">LinkedIn</a><br>
-↪️ <a href="https://www.twitter.com/cse_tufayel" target="_blank">Twitter</a><be>
+↪️ <a href="https://www.twitter.com/cse_tufayel" target="_blank">Twitter</a><br>
 ↪️ <a href="https://www.facebook.com/cse.tufayel" target="_blank">Facebook</a><br>
