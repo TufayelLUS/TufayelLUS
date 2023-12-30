@@ -43,12 +43,13 @@ It's Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 ↪️ Linux<br>
 ↪️ Mac OS<br>
 
-### 🎌 Freelancing Profile
+### 🎌 Freelancing Portfolio
 ↪️ <a href="https://www.fiverr.com/thechoyon" target="_blank">Fiverr</a> (600+ projects completed) 🔥 <b>Top Rated Seller</b> 🔥 Since <b>July 2021</b><br>
 ↪️ <a href="https://www.upwork.com/freelancers/~01ba51f81fe1a76fc2" target="_blank">Upwork</a> (40+ projects completed) 🔥 Ex <b>Top Rated</b> Freelancer 🔥<br>
 ↪️ <a href="https://www.guru.com/freelancers/choyon-ahmed" target="_blank">Guru.com</a> (20+ projects completed)<br>
 ↪️ <a href="https://www.seoclerk.com/user/TheChoyon" target="_blank">SeoClerk</a><br>
 
-### 📨 Reach Out to Me
+### 📨 Where to Reach Out
 ↪️ <a href="https://www.linkedin.com/in/tufayel-ahmed-cse" target="_blank">LinkedIn</a><br>
-↪️ <a href="https://www.twitter.com/cse_tufayel" target="_blank">Twitter</a><br>
+↪️ <a href="https://www.twitter.com/cse_tufayel" target="_blank">Twitter</a><be>
+↪️ <a href="https://www.facebook.com/cse.tufayel" target="_blank">Facebook</a><br>
