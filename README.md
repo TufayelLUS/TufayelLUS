@@ -1,5 +1,5 @@
 ### About Me ❔
-I am Tufayel Ahmed. With a graduation degree in Computer Science & Engineering from Leading University, Sylhet, Bangladesh(Graduated on April 2020), currently I am serving customers with my Software Engineering skills as a freelancer on Fiverr and other marketplaces. I achieved an honorable position in the Fiverr marketplace (Top Rated Seller) with my highest quality service. Started my freelancing career in April 2017 and completed over 650 projects with 5* level customer satisfaction with many clients from different countries till 5th August 2023(check references provided below to confirm the claim). If you are looking for automated bots, web scrapers, web crawlers, monitoring software, automated alert solutions, and similar, you're welcome anytime. I offer reasonable prices for such services ensuring high quality software experience. If you're not a tech enthusiast, no worries about anything too as I instruct everyone with all the usage processes. Note that, please do not ask for anything that doesn't comply with those platform rules as I won't be able to offer anything that violates any rule. 
+It's Tufayel Ahmed. With a graduation degree in Computer Science & Engineering from Leading University, in Sylhet, Bangladesh(I Graduated in April 2020), I am currently serving customers with my Software Engineering skills as a freelancer on Fiverr and other marketplaces. I achieved an honorable position in the Fiverr marketplace (<strong>Top Rated Seller</strong>) with my highest quality service. I started my freelancing career in April 2017 and completed over 650 projects with <strong>five-star</strong> level customer satisfaction with many clients from different countries till 5th August 2023(check references provided below to confirm the claim). If you are looking for automated bots, web scrapers, web crawlers, monitoring software, automated alert solutions, and similar, you're welcome anytime. I offer reasonable prices for such services ensuring high quality software experience. If you're not a tech enthusiast, no worries about anything too as I instruct everyone with all the usage processes. Just so you know, please do not ask for anything that doesn't comply with those platform rules as I won't be able to offer anything that violates any rule. 
 
 ### 👨‍💻 Competitive/Sports Programming/Problem Solving Achievements
 ↪️ Ranked 96th/150th in <a href="https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest" title="click to learn more">ACM ICPC</a> <a href="https://en.wikipedia.org/wiki/ACM_ICPC_Dhaka_Site" title="click to learn more">Dhaka Regional</a> 2017 Programming Contest (Team Contest) [<a href="https://algo.codemarshal.org/contests/icpc-dhaka-17/standings">View RankList</a>]
@@ -44,9 +44,9 @@ I am Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 ↪️ Mac OS<br>
 
 ### 🎌 Freelancing Profile
-↪️ <a href="https://www.fiverr.com/thechoyon" target="_blank">Fiverr</a> 🔥 <b>Top Rated Seller</b> 🔥 Since <b>July 2021</b><br>
-↪️ <a href="https://www.upwork.com/freelancers/~01ba51f81fe1a76fc2" target="_blank">Upwork</a> 🔥 Ex <b>Top Rated</b> Freelancer 🔥<br>
-↪️ <a href="https://www.guru.com/freelancers/choyon-ahmed" target="_blank">Guru.com</a><br>
+↪️ <a href="https://www.fiverr.com/thechoyon" target="_blank">Fiverr</a> (600+ projects completed) 🔥 <b>Top Rated Seller</b> 🔥 Since <b>July 2021</b><br>
+↪️ <a href="https://www.upwork.com/freelancers/~01ba51f81fe1a76fc2" target="_blank">Upwork</a> (40+ projects completed) 🔥 Ex <b>Top Rated</b> Freelancer 🔥<br>
+↪️ <a href="https://www.guru.com/freelancers/choyon-ahmed" target="_blank">Guru.com</a> (20+ projects completed)<br>
 ↪️ <a href="https://www.seoclerk.com/user/TheChoyon" target="_blank">SeoClerk</a><br>
 
 ### 📨 Reach Out to Me
