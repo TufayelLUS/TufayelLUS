@@ -13,7 +13,7 @@ It's Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 
 ### 💪 Skills
 ↪️ Python (<i>Experience: 6+ years</i>)<br>
-↪️ Django Web Application Framework (<i>Experience: Learning</i>)<br>
+↪️ Django Web Application Framework (<i>Experience: Can develop CRUD based websites</i>)<br>
 ↪️ Flask Web Application Framework (<i>Experience: Just enough to handle projects</i>)<br>
 ↪️ PHP (<i>Experience: 3+ years</i>)<br>
 ↪️ Laravel Web Application Framework (<i>Experience: 6 months</i>)<br>
@@ -21,6 +21,7 @@ It's Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 ↪️ JavaScript (<i>Experience: 1+ year</i>)<br>
 ↪️ C# (<i>Experience: 1+ month</i>)<br>
 ↪️ MySQL (<i>Experience: Enough to use on projects as required</i>)<br>
+↪️ PostgreSQL (<i>Experience: Enough to use on projects as required</i>)<br>
 ↪️ SQLite3 (<i>Experience: Enough to use on projects as required</i>)<br>
 
 ### 🌷 Area of Interest
@@ -28,6 +29,7 @@ It's Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 ↪️ Data Parsing Automation<br>
 ↪️ Data Manipulation<br>
 ↪️ Web Automation<br>
+↪️ Software Development<br>
 ↪️ Agile Development<br>
 
 ### 🔧 Specialization
