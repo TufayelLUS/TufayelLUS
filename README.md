@@ -27,7 +27,7 @@ It's Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 ↪️ MySQL (<i>Experience: Enough to use on projects as required</i>)<br>
 ↪️ PostgreSQL (<i>Experience: Enough to use on projects as required</i>)<br>
 ↪️ SQLite3 (<i>Experience: Enough to use on projects as required</i>)<br>
-↪️ AWS EC2, Route 53 (Server setup experience from scratch and web app deployment with domain connection with DNS setup)
+↪️ AWS EC2, Route 53 (Server setup experience from scratch and web app deployment with domain connection with DNS setup)<br>
 ↪️ GCP
 
 ### 🌷 Area of Interest
