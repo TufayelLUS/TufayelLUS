@@ -1,8 +1,8 @@
 ### About Me ❔
-It's Tufayel Ahmed. With a graduation degree in Computer Science & Engineering from Leading University, in Sylhet, Bangladesh(I Graduated in April 2020), I am currently serving customers with my Software Engineering skills as a freelancer on Fiverr and other marketplaces. I achieved an honorable position in the Fiverr marketplace (<strong>Pro Verified</strong> in <strong>Software Development</strong>, <strong>Top Rated Seller</strong>) with my highest quality service. I started my freelancing career in April 2017 and completed over 800 projects with <strong>five-star</strong> level customer satisfaction with many clients from different countries till 19th August 2024(check references provided below to confirm the claim). If you are looking for automated bots, web scrapers, web crawlers, monitoring software, automated alert solutions, API development, API integration, website development services, and similar, you're welcome anytime. I offer reasonable prices for such services ensuring high quality software experience. If you're not a tech enthusiast, no worries about anything too as I instruct everyone with all the usage processes. Just so you know, please do not ask for anything that doesn't comply with those platform rules as I won't be able to offer anything that violates any rule. <br>
+It's Tufayel Ahmed. With a graduation degree in <b>Computer Science & Engineering</b> from Leading University, in Sylhet, Bangladesh(I Graduated in April 2020), I am currently serving customers with my Software Engineering skills as a freelancer on Fiverr and other marketplaces. I achieved an honorable position in the Fiverr marketplace (<strong>Pro Verified</strong> in <strong>Software Development</strong>, <strong>Top Rated Seller</strong>) with my highest quality service. I started my freelancing career in April 2017 and completed over 800 projects with <strong>five-star</strong> level customer satisfaction with many clients from different countries till 19th August 2024(check references provided below to confirm the claim). If you are looking for automated bots, web scrapers, web crawlers, monitoring software, automated alert solutions, API development, API integration, website development services, and similar, you're welcome anytime. I offer reasonable prices for such services ensuring high quality software experience. If you're not a tech enthusiast, no worries about anything too as I instruct everyone with all the usage processes. Just so you know, please do not ask for anything that doesn't comply with those platform rules as I won't be able to offer anything that violates any rule. <br>
 
 ### My Fiverr Profile as of 19th August, 2024 👇
-<a href="https://www.fiverr.com/thechoyon"><img src="https://raw.githubusercontent.com/TufayelLUS/TufayelLUS/main/fiverr-profile.png" alt="fiverr profile preview" /></a>
+<a href="https://www.fiverr.com/thechoyon"><img width="800px" src="https://raw.githubusercontent.com/TufayelLUS/TufayelLUS/main/fiverr-profile.png" alt="fiverr profile preview" /></a>
 
 ### 👨‍💻 Competitive/Sports Programming/Problem Solving Achievements
 ↪️ Ranked 96th/150th in <a href="https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest" title="click to learn more">ACM ICPC</a> <a href="https://en.wikipedia.org/wiki/ACM_ICPC_Dhaka_Site" title="click to learn more">Dhaka Regional</a> 2017 Programming Contest (Team Contest) [<a href="https://algo.codemarshal.org/contests/icpc-dhaka-17/standings">View RankList</a>]
@@ -15,23 +15,27 @@ It's Tufayel Ahmed. With a graduation degree in Computer Science & Engineering f
 ↪️ <a href="https://uhunt.onlinejudge.org/id/866523">UVa Profile</a><br>
 
 ### 💪 Skills
-↪️ Python (<i>Experience: 6+ years</i>)<br>
+↪️ Python (<i>Experience: 7+ years</i>)<br>
+↪️ AI Integration<br>
 ↪️ Payment Gateway integration with Stripe<br>
-↪️ Django Web Application Framework (<i>Experience: Can develop CRUD based websites</i>)<br>
-↪️ Flask Web Application Framework (<i>Experience: Just enough to handle projects</i>)<br>
-↪️ PHP (<i>Experience: 3+ years</i>)<br>
+↪️ Django Web Application Framework (<i>Experience: Developed CRUD based websites</i>)<br>
+↪️ Flask Web Application Framework (<i>Experience: 3+ years</i>)<br>
+↪️ PHP (<i>Experience: 5+ years</i>)<br>
 ↪️ Laravel Web Application Framework (<i>Experience: 6 months</i>)<br>
-↪️ jQuery (<i>Experience: 1+ year</i>)<br>
-↪️ JavaScript (<i>Experience: 1+ year</i>)<br>
+↪️ jQuery (<i>Experience: 3+ year</i>)<br>
+↪️ JavaScript (<i>Experience: 3+ year</i>)<br>
 ↪️ C# (<i>Experience: 1+ month</i>)<br>
-↪️ MySQL (<i>Experience: Enough to use on projects as required</i>)<br>
-↪️ PostgreSQL (<i>Experience: Enough to use on projects as required</i>)<br>
-↪️ SQLite3 (<i>Experience: Enough to use on projects as required</i>)<br>
+↪️ MySQL (<i>Experience: Enough for projects</i>)<br>
+↪️ PostgreSQL (<i>Experience: Enough for projects</i>)<br>
+↪️ SQLite3 (<i>Experience: Enough for projects</i>)<br>
 ↪️ AWS EC2, Route 53 (Server setup experience from scratch and web app deployment with domain connection with DNS setup)<br>
-↪️ GCP
+↪️ GCP, Azure or any Linux Server
 
 ### 🌷 Area of Interest
 ↪️ Web Scraping Automation<br>
+↪️ AI Integration<br>
+↪️ API Integration<br>
+↪️ AI Prompt Engineering<br>
 ↪️ Data Parsing Automation<br>
 ↪️ Data Manipulation<br>
 ↪️ Web Automation<br>
