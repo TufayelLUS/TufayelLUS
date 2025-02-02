@@ -5,7 +5,7 @@ It's Tufayel Ahmed. With a graduation degree in <b>Computer Science & Engineerin
 <a href="https://www.fiverr.com/thechoyon"><img width="800px" src="https://raw.githubusercontent.com/TufayelLUS/TufayelLUS/main/fiverr-profile.png" alt="fiverr profile preview" /></a>
 
 ### 👨‍💻 Competitive/Sports Programming/Problem Solving Achievements
-↪️ Ranked 96th/150th in <a href="https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest" title="click to learn more">ACM ICPC</a> <a href="https://en.wikipedia.org/wiki/ACM_ICPC_Dhaka_Site" title="click to learn more">Dhaka Regional</a> 2017 Programming Contest (Team Contest) [<a href="https://algo.codemarshal.org/contests/icpc-dhaka-17/standings">View RankList</a>]
+↪️ Ranked 96th/150th in <a href="https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest" title="click to learn more">ACM ICPC</a> <a href="https://en.wikipedia.org/wiki/ACM_ICPC_Dhaka_Site" title="click to learn more">Dhaka Regional</a> 2017 Programming Contest (Team Contest) [<a href="https://web.archive.org/web/20201024194431/https://algo.codemarshal.org/contests/icpc-dhaka-17/standings">View RankList</a>]
 
 ### 👨‍💻 Competitive/Sports Programming/Problem Solving Profiles
 ↪️ <a href="https://www.stopstalk.com/user/profile/tufayel_lus">Stopstalk Profile</a><br>
