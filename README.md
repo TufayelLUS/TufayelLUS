@@ -1,8 +1,5 @@
 ### Who Am I ❔
 Solo Software Engineer with a graduation degree in <b>Computer Science & Engineering</b> from Leading University, in Sylhet, Bangladesh(I Graduated in April 2020), I am currently serving customers with my Software Engineering skills as a freelancer on Fiverr and other marketplaces. I achieved an honorable position in the Fiverr marketplace (<strong>Pro Verified</strong> in <strong>Software Development</strong>, <strong>Top Rated Seller</strong>) with my highest quality service. I started my freelancing career in April 2017 and completed over 900 projects with <strong>five-star</strong> level customer satisfaction with many clients from different countries till 7th February 2025(marketplace profiles are mentioned below). If you are looking for automated bots, web scrapers, web crawlers, monitoring software, automated alert solutions, API development, API integration, website development services, and similar, you're welcome anytime. I offer reasonable prices for such services ensuring high quality software experience. If you're not a tech enthusiast, no worries about anything too as I instruct everyone with all the usage processes. Just so you know, please do not ask for anything that doesn't comply with those platform rules as I won't be able to offer anything that violates any rule. <br><br>
-![TufayelLUS's Stats](https://github-readme-stats.vercel.app/api?username=TufayelLUS&theme=blueberry&show_icons=true&hide_border=true&count_private=true)<br>
-![TufayelLUS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TufayelLUS&theme=blueberry&hide_border=true)<br>
-![TufayelLUS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TufayelLUS&theme=blueberry&show_icons=true&hide_border=true&layout=compact)<br>
 
 ### My Fiverr Profile as of 19th August, 2024 👇
 <a href="https://www.fiverr.com/thechoyon"><img width="800px" src="https://raw.githubusercontent.com/TufayelLUS/TufayelLUS/main/fiverr-profile.png" alt="fiverr profile preview" /></a>
@@ -68,3 +65,8 @@ Solo Software Engineer with a graduation degree in <b>Computer Science & Enginee
 ↪️ <a href="https://www.linkedin.com/in/tufayel-ahmed-cse" target="_blank">LinkedIn</a><br>
 ↪️ <a href="https://www.twitter.com/cse_tufayel" target="_blank">Twitter</a><br>
 ↪️ <a href="https://www.facebook.com/cse.tufayel" target="_blank">Facebook</a><br>
+
+
+![TufayelLUS's Stats](https://github-readme-stats.vercel.app/api?username=TufayelLUS&theme=blueberry&show_icons=true&hide_border=true&count_private=true)<br>
+![TufayelLUS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TufayelLUS&theme=blueberry&hide_border=true)<br>
+![TufayelLUS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TufayelLUS&theme=blueberry&show_icons=true&hide_border=true&layout=compact)<br>
