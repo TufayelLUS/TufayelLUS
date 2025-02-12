@@ -1,6 +1,21 @@
 ### Who Am I ❔
 Solo Software Engineer with a graduation degree in <b>Computer Science & Engineering</b> from Leading University, in Sylhet, Bangladesh(I Graduated in April 2020), I am currently serving customers with my Software Engineering skills as a freelancer on Fiverr and other marketplaces. I achieved an honorable position in the Fiverr marketplace (<strong>Pro Verified</strong> in <strong>Software Development</strong>, <strong>Top Rated Seller</strong>) with my highest quality service. I started my freelancing career in April 2017 and completed over 900 projects with <strong>five-star</strong> level customer satisfaction with many clients from different countries till 7th February 2025(marketplace profiles are mentioned below). If you are looking for automated bots, web scrapers, web crawlers, monitoring software, automated alert solutions, API development, API integration, website development services, and similar, you're welcome anytime. I offer reasonable prices for such services ensuring high quality software experience. If you're not a tech enthusiast, no worries about anything too as I instruct everyone with all the usage processes. Just so you know, please do not ask for anything that doesn't comply with those platform rules as I won't be able to offer anything that violates any rule. <br><br>
 
+### Notable Projects 👇
+* [TikTok Video Downloader](https://github.com/TufayelLUS/TikTok-Video-Downloader-PHP)
+* [Instagram Reels Downloader](https://github.com/TufayelLUS/Instagram-Reels-Downloader-Scripts)
+* [Likee Video Downloader](https://github.com/TufayelLUS/Likee-Video-Downloader-PHP)
+* [Linked Lead Scraper](https://github.com/TufayelLUS/LinkedIn-Scraper)
+* [LinkedIn CV Downloader](https://github.com/TufayelLUS/LinkedIn-CV-Downloader)
+* [AI RAG GUI Scraper & PDF Analyzer](https://github.com/TufayelLUS/RAG-Scraper-AI-GUI)
+* [Privacy Policy Finder AI Agent](https://github.com/TufayelLUS/AI-Agent-For-Privacy-Policy-Finding)
+* [WordPress Installed Plugin Scanner](https://github.com/TufayelLUS/WP-Plugin-Scanner)
+* [Cloudflare Bypass Using Python](https://github.com/TufayelLUS/Cloudflare-Bypass-Python-Code)
+* [Facebook Video Downloader](https://github.com/TufayelLUS/Facebook-Video-Downloader-Python)
+* [Anibis vs AutoScout24 Deal Comparison Tool](https://github.com/TufayelLUS/Anibis-AutoScout24-Deal-Comparison-Tool)
+* [TrueCar.Com Scraper](https://github.com/TufayelLUS/TrueCar.com-Scraper-In-Python)
+* [Multiplatform News Update Monitoring & Automated Alert System](https://github.com/TufayelLUS/Multiplatform-Automated-Monitoring-System-Using-Python-Telegram)
+
 ### My Fiverr Profile as of 19th August, 2024 👇
 <a href="https://www.fiverr.com/thechoyon"><img width="800px" src="https://raw.githubusercontent.com/TufayelLUS/TufayelLUS/main/fiverr-profile.png" alt="fiverr profile preview" /></a>
 
