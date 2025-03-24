@@ -30,9 +30,10 @@ Software Engineer with a graduation degree in <b>Computer Science & Engineering<
 ↪️ <a href="https://uhunt.onlinejudge.org/id/866523">UVa Profile</a><br>
 
 ### 💪 Skills
-↪️ Python (<i>Experience: 7+ years</i>)<br>
+↪️ Python (<i>Experience: 8+ years with Automation, Web App, Desktop App Development</i>)<br>
 ↪️ AI Integration<br>
 ↪️ Payment Gateway integration with Stripe<br>
+↪️ FastAPI-based Web Apps<br>
 ↪️ Django Web Application Framework (<i>Experience: Developed CRUD based websites</i>)<br>
 ↪️ Flask Web Application Framework (<i>Experience: 3+ years</i>)<br>
 ↪️ PHP (<i>Experience: 5+ years</i>)<br>
@@ -40,9 +41,10 @@ Software Engineer with a graduation degree in <b>Computer Science & Engineering<
 ↪️ jQuery (<i>Experience: 3+ year</i>)<br>
 ↪️ JavaScript (<i>Experience: 3+ year</i>)<br>
 ↪️ C# (<i>Experience: 1+ month</i>)<br>
-↪️ MySQL (<i>Experience: Enough for projects</i>)<br>
-↪️ PostgreSQL (<i>Experience: Enough for projects</i>)<br>
-↪️ SQLite3 (<i>Experience: Enough for projects</i>)<br>
+↪️ MongoDB<br>
+↪️ MySQL<br>
+↪️ PostgreSQL<br>
+↪️ SQLite3<br>
 ↪️ AWS EC2, Route 53 (Server setup experience from scratch and web app deployment with domain connection with DNS setup)<br>
 ↪️ GCP, Azure or any Linux Server
 
