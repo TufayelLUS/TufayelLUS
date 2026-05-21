@@ -73,7 +73,7 @@ Software Engineer with a graduation degree in <b>Computer Science & Engineering<
 ↪️ Mac OS<br>
 
 ### 🎌 Freelancing Portfolio
-↪️ <a href="https://www.fiverr.com/thechoyon" target="_blank">Fiverr</a> (800+ projects completed) 🔥 <b>Pro</b> Verified <b>Top Rated Seller</b> 🔥 Since <b>July 2021</b> [<a href="https://archive.is/LytR9">Snapshot</a> (13 July 2024)]<br>
+↪️ <a href="https://www.fiverr.com/thechoyon" target="_blank">Fiverr</a> (950+ projects completed) 🔥 <b>Pro</b> Verified <b>Top Rated Seller</b> 🔥 Since <b>July 2021</b> [<a href="https://archive.is/LytR9">Snapshot</a> (13 July 2024)]<br>
 ↪️ <a href="https://www.upwork.com/freelancers/~01ba51f81fe1a76fc2" target="_blank">Upwork</a> (40+ projects completed) 🔥 Ex <b>Top Rated</b> Freelancer 🔥[<a href="https://archive.is/M0s44">Snapshot</a> (8 May 2021)]<br>
 ↪️ <a href="https://www.guru.com/freelancers/choyon-ahmed" target="_blank">Guru.com</a> (20+ projects completed) [<a href="https://archive.ph/OkvKx">Snapshot</a> (30 Jan 2024)]<br>
 ↪️ <a href="https://www.seoclerk.com/user/TheChoyon" target="_blank">SeoClerk</a> [<a href="https://archive.ph/c3EWP">Snapshot</a> (30 Jan 2024)]<br>
