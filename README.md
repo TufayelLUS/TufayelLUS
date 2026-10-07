@@ -1,5 +1,5 @@
 ### Who Am I ❔
-Software Engineer with a graduation degree in <b>Computer Science & Engineering</b> from Leading University, in Sylhet, Bangladesh(I Graduated in April 2020), I am currently serving customers with my Software Engineering skills as a freelancer on Fiverr and other marketplaces. I achieved an honorable position in the Fiverr marketplace (<strong>Pro Verified</strong> in <strong>Software Development</strong>, <strong>Top Rated Seller</strong>) with my highest quality service. I started my freelancing career in April 2017 and completed over 900 projects with <strong>five-star</strong> level customer satisfaction with many clients from different countries till 7th February 2025(marketplace profiles are mentioned below). If you are looking for automated bots, web scrapers, web crawlers, monitoring software, automated alert solutions, API development, API integration, website development services, and similar, you're welcome anytime. I offer reasonable prices for such services ensuring high quality software experience. If you're not a tech enthusiast, no worries about anything too as I instruct everyone with all the usage processes. Just so you know, please do not ask for anything that doesn't comply with those platform rules as I won't be able to offer anything that violates any rule. <br><br>
+Software Engineer with a degree in <b>Computer Science & Engineering</b> from Leading University in Sylhet, Bangladesh(I graduated in April 2020). I am currently serving customers with my Software Engineering skills as a freelancer on Fiverr and other marketplaces. I achieved an honorable position in the Fiverr marketplace (<strong>Pro Verified</strong> in <strong>Software Development</strong>, <strong>Top Rated Seller</strong>) with my highest-quality service. I started my freelancing career in April 2017 and completed over 900 projects with <strong>five-star</strong> level customer satisfaction with many clients from different countries till 7th February 2025(marketplace profiles are mentioned below). If you are looking for automated bots, web scrapers, web crawlers, monitoring software, automated alert solutions, API development, API integration, website development services, and similar, you're welcome anytime. I offer reasonable prices for such services, ensuring a high-quality software experience. If you're not a tech enthusiast, no worries about anything too, as I instruct everyone on all the usage processes. Just so you know, please do not ask for anything that doesn't comply with those platform rules, as I won't be able to offer anything that violates any rule. <br><br>
 
 ### Notable Projects 👇
 * [TikTok Video Downloader](https://github.com/TufayelLUS/TikTok-Video-Downloader-PHP)
@@ -48,7 +48,7 @@ Software Engineer with a graduation degree in <b>Computer Science & Engineering<
 ↪️ AWS EC2, Route 53 (Server setup experience from scratch and web app deployment with domain connection with DNS setup)<br>
 ↪️ GCP, Azure or any Linux Server
 
-### 🌷 Area of Interest
+### 🌷 Areas of Interest
 ↪️ Web Scraping Automation<br>
 ↪️ AI Integration<br>
 ↪️ API Integration<br>
@@ -73,7 +73,7 @@ Software Engineer with a graduation degree in <b>Computer Science & Engineering<
 ↪️ Mac OS<br>
 
 ### 🎌 Freelancing Portfolio
-↪️ <a href="https://www.fiverr.com/thechoyon" target="_blank">Fiverr</a> (950+ projects completed) 🔥 <b>Pro</b> Verified <b>Top Rated Seller</b> 🔥 Since <b>July 2021</b> [<a href="https://archive.is/LytR9">Snapshot</a> (13 July 2024)]<br>
+↪️ <a href="https://www.fiverr.com/thechoyon" target="_blank">Fiverr</a> (1000+ projects completed) 🔥 <b>Pro</b> Vetted <b>Top Rated Seller</b> 🔥 Since <b>July 2021</b> [<a href="https://archive.is/LytR9">Snapshot</a> (13 July 2024)]<br>
 ↪️ <a href="https://www.upwork.com/freelancers/~01ba51f81fe1a76fc2" target="_blank">Upwork</a> (40+ projects completed) 🔥 Ex <b>Top Rated</b> Freelancer 🔥[<a href="https://archive.is/M0s44">Snapshot</a> (8 May 2021)]<br>
 ↪️ <a href="https://www.guru.com/freelancers/choyon-ahmed" target="_blank">Guru.com</a> (20+ projects completed) [<a href="https://archive.ph/OkvKx">Snapshot</a> (30 Jan 2024)]<br>
 ↪️ <a href="https://www.seoclerk.com/user/TheChoyon" target="_blank">SeoClerk</a> [<a href="https://archive.ph/c3EWP">Snapshot</a> (30 Jan 2024)]<br>
